@@ -1,11 +1,17 @@
 * {
   box-sizing: border-box; }
 
-body {
-  background: limegreen; }
+img {
+  width: 100%;
+  display: block; }
 
-h2 {
-  color: maroon;
-  border-bottom: 4px solid maroon; }
+.profile {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+  font-size: 14px;
+  background-color: #D4F1C6;
+  padding-left: 15px;
+  margin: 10px; }
 
 /*# sourceMappingURL=styles.css.map*/
